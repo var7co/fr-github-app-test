@@ -1,0 +1,6 @@
+{
+  "name": "fr-github-app-test",
+  "builds": [
+    { "src": "*.*", "use": "@now/static" }
+  ]
+}
